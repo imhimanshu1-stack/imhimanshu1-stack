@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
-- 👨‍💻 How many Projects Completed? [300+ Projects Completed Still Counting More](300+ Projects Completed Still Counting More)
+- 👨‍💻 How many Projects Completed? [300+ Projects Completed Still Counting More]
 
 - 📝 I regularly write articles on [https://hitoritech.com/blog](https://hitoritech.com/blog)
 
