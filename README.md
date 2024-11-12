@@ -1,4 +1,4 @@
-[![MasterHead]()](https://hitoritech.com)
+[![MasterHead](https://hitoritech.com)
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Verma</h1>
