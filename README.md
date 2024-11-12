@@ -12,6 +12,11 @@
 
 - 🌱 I’m currently learning **Ansbile & Puppet**
 
+- 📅 Want to meet me? Book a 15-min slot!
+
+<a href="https://calendly.com/hitoritech/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+
 - 👯 I’m looking to collaborate on **Full Stack Projects & Devops**
 
 - 🌱 I’m currently working on **Setting up infra using Terraform over AWS**
